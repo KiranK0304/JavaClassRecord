@@ -1,0 +1,9 @@
+=========================================
+         FILE ANALYSIS SUMMARY REPORT    
+=========================================
+Source File      : programming.txt
+Total Lines      : 26
+Total Words      : 180
+Total Characters : 1301
+File Size (bytes): 1327
+=========================================

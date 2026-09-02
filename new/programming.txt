@@ -1,0 +1,26 @@
+COMPUTER PROGRAMMING OVERVIEW
+
+1. CORE DEFINITION
+- Instruction writing: Creating step-by-step logic for computers to execute.
+- Human-machine bridge: Translating abstract human thoughts into functional digital software.
+
+2. THE MECHANISM
+- Binary baseline: Computers only understand electrical states represented as ones and zeros.
+- High-level languages: Programmers use English-like code to avoid writing raw binary.
+- Code translation: Tools called compilers convert human text into machine-readable files.
+
+3. FUNDAMENTAL BUILDING BLOCKS
+- Variables: Named storage units that hold and change data.
+- Data types: Specifications for information, including numbers, text, and true/false values.
+- Control flow: Decision-making paths using conditional statements and repeating loops.
+- Syntax rules: Strict grammatical laws unique to every distinct language.
+
+4. COMMON LANGUAGES
+- Python: Simple, readable language dominant in artificial intelligence and automation.
+- JavaScript: The universal standard for making web pages interactive.
+- C++ and Java: Fast, robust systems used for video games and enterprise apps.
+
+5. DAILY PRACTICE
+- Problem decomposition: Breaking large, complex problems down into small, solvable steps.
+- Debugging code: Systematically hunting down, isolating, and repairing logical software errors.
+
